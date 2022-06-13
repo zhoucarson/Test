@@ -1,0 +1,20 @@
+{
+  "Buick": {
+    "isAssistOEM": true,
+    "wakeupWords": [
+      "你好别克"
+    ]
+  },
+  "Cadillac": {
+    "isAssistOEM": true,
+    "wakeupWords": [
+      "你好凯迪拉克"
+    ]
+  },
+  "Chevrolet": {
+    "isAssistOEM": true,
+    "wakeupWords": [
+      "你好小雪"
+    ]
+  }
+}
