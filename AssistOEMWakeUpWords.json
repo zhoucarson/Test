@@ -17,4 +17,11 @@
       "你好小雪"
     ]
   }
+  ,
+  "Linken": {
+    "isAssistOEM": true,
+    "wakeupWords": [
+      "你好林肯"
+    ]
+  }
 }
